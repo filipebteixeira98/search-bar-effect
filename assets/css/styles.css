@@ -113,3 +113,9 @@ body {
 .show-search .search__close {
   opacity: 1;
 }
+
+@media screen and (min-width: 576px) {
+  .show-search {
+    width: 450px;
+  }
+}
